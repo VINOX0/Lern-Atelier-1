@@ -19,3 +19,6 @@ Sehr viel aus die Lektionen an der BBB draus machen und vieles mitnehmen
 Heute werde ich noch die fehlende Programme installieren und weiter an Modul 431 weiter arbeiten.
 
 
+## 07.11.2025
+Heute werde ich alle Apps auf mein Laptop installieren und an der Projektarbeit weiter arbeiten. Damit möchte ich erreichen, dass ich jetzt wieder mit meinen eigenen Laptop arbeiten kann.
+
