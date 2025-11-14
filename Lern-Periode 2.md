@@ -22,3 +22,6 @@ Heute werde ich noch die fehlende Programme installieren und weiter an Modul 431
 ## 07.11.2025
 Heute werde ich alle Apps auf mein Laptop installieren und an der Projektarbeit weiter arbeiten. Damit möchte ich erreichen, dass ich jetzt wieder mit meinen eigenen Laptop arbeiten kann.
 
+##Plannung 14.11.2025
+Ich möchte gerne an die Module 162 arbeite und möchte Linux command in meiner Vm anschauen
+
