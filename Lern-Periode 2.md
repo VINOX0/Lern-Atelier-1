@@ -1,4 +1,4 @@
-# Lern-Periode 1
+# Lern-Periode 2
 Name: Vincent Ozugha
 
 Datum: 20.10.2025
@@ -24,4 +24,7 @@ Heute werde ich alle Apps auf mein Laptop installieren und an der Projektarbeit 
 
 ##Plannung 14.11.2025
 Ich möchte gerne an die Module 162 arbeite und möchte Linux command in meiner Vm anschauen
+
+## 30.01.2026
+Heute werde ich SQL üben an Modul 117 weiter arbeiten und für Abwechslung einwenig Python programmieren.
 
