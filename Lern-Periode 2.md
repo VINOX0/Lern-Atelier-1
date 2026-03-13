@@ -32,3 +32,8 @@ Heute werde ich SQL üben an Modul 117 weiter arbeiten und für Abwechslung einw
 Heute arbeite an mein Projekt wo ich dür Modul 164 abgeben muss.
 Für nächstes mal nehme ich mir vor fertig zu arbeiten. Heute konnte ich einigemassen gut vorankommen.
 
+## 13.03.2026
+Heute arbeite ich in meiner Gruppe an einen Projekt.
+Es sollte meine Teamfähigkeit stärken und ich sollte auch Spass daran haben.
+
+
