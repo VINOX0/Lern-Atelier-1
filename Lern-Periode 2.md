@@ -36,4 +36,6 @@ Für nächstes mal nehme ich mir vor fertig zu arbeiten. Heute konnte ich einige
 Heute arbeite ich in meiner Gruppe an einen Projekt.
 Es sollte meine Teamfähigkeit stärken und ich sollte auch Spass daran haben.
 
+##20.03.2026
+Ich bin heute sehr wenn in HTB gekommen und habe noch einpaar Dinge von Web Development gelernt.
 
