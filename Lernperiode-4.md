@@ -21,3 +21,7 @@ Heute werde ich mein Cisco Certificate abschliessen und mir ein Thema zur meiner
 ## Planung 29.05.2026
 Heute werde ich 10 Fingersystem üben und an meiner Webseite und eine Machine in CTF machen.
 Natürlich muss ich viel theorie noch machen.
+
+## Planung 05.06.2026
+Heute werde ich an meinem CISCO Zertifikat Cyber Threat Management Modul 1 und 2 fertig machen.
+10 Fingersystem weiter üben und mein Powershellscript fertig stellen und testen.
