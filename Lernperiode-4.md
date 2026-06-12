@@ -25,3 +25,8 @@ Natürlich muss ich viel theorie noch machen.
 ## Planung 05.06.2026
 Heute werde ich an meinem CISCO Zertifikat Cyber Threat Management Modul 1 und 2 fertig machen.
 10 Fingersystem weiter üben und mein Powershellscript fertig stellen und testen.
+
+## Planung 12.06.2026
+Heute werde wir weiter an meinem CISCO Zertifikat Cyber Threat Management Modul 2 und 3 fertig machen.
+Ausserdem möchte ich die Module Windows Fundementals auf HTB anfangen.
+Ein wenig an meiner Website arbeiten und alles dokumentieren
