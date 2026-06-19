@@ -1,6 +1,7 @@
-#Lernperiode 4
+Lernperiode 4
 Name: Vincent Ozugha
 
+## Zeitraum
 1. April bis 30. Juni
 
 ### Noten
@@ -30,3 +31,10 @@ Heute werde ich an meinem CISCO Zertifikat Cyber Threat Management Modul 1 und 2
 Heute werde wir weiter an meinem CISCO Zertifikat Cyber Threat Management Modul 2 und 3 fertig machen.
 Ausserdem möchte ich die Module Windows Fundementals auf HTB anfangen.
 Ein wenig an meiner Website arbeiten und alles dokumentieren
+
+## Planung 19.06.2026 
+Heute habe ich reverse engineering angeschaut, also kennengelernt. Ich habe auch Linux Fundemental auf overthewire.org
+angeschaut und dazu Aufgaben gelöst.
+
+Plan für nächste Woche: Ich würde gerne weiter arbeiten und auf overthewire.org fertig werden.
+
