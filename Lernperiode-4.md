@@ -2,7 +2,7 @@ Lernperiode 4
 Name: Vincent Ozugha
 
 ## Zeitraum
-1. April bis 30. Juni
+01.04.2026 bis 30.06.2026
 
 ### Noten
 Mein Durchschnitt ist gerade bei einer 5.5
